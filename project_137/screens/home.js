@@ -32,7 +32,7 @@ export default class HomeScreen extends React.Component{
                         Star Name: <Text style={{fontWeight:"bold"}}> {item.name} </Text>
                     </Text>
                     <Text style={styles.left_text}>
-                        Distance from Sun: 
+                        Distance from Earth: 
                         <Text style={{fontWeight:"bold"}}> {item.distance} </Text>
                         lightyears
                     </Text>
