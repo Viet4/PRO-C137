@@ -34,7 +34,7 @@ export default class DetailsScreen extends React.Component{
                     <View style={{flexDirection:"column"}}>
                         <View>
                             <Text style={styles.text}>
-                                Distance from Sun: 
+                                Distance from Earth: 
                                 <Text style={{fontWeight:"bold"}}> {details.distance} </Text>
                                 lightyears
                             </Text>
